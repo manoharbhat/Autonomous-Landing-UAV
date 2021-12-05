@@ -1,0 +1,5 @@
+<launch>
+
+    <node name="rviz" pkg="rviz" type="rviz" output="screen" args="-d $(find safe_landing_planner)/resource/safe_landing_planner.rviz" />
+
+</launch>
