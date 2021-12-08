@@ -4,5 +4,5 @@ An autonomous safe landing planner that avoids obstacles and lands automatically
 
 
 <p align="center">
-  <img src="https://github.com/manoharbhat/VIKRAM/blob/main/Images/flowchart-%20robot%20design.png" width=50% height=50%>
+  <img src="https://github.com/manoharbhat/Autonomous-Landing-UAV/blob/master/drone.jpg" width=50% height=50%>
 </p> 
