@@ -1,5 +1,9 @@
 # Autonomous-Landing-UAV
+## UAV components
 
+<p align="left">
+  <img src="https://github.com/manoharbhat/Autonomous-Landing-UAV/blob/master/downward_drone.png" width=50% height=50%>
+</p> 
 An autonomous safe landing planner that avoids obstacles and lands automatically after assessing the terrain through depth cameras.
 
 CLICK THE IMAGE FOR HARDWARE DEMONSTRATION:
